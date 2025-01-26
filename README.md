@@ -2,27 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>proj man soft - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-      margin: 20px;
-      color: #333;
-    }
-    h1, h2, h3 {
-      margin-top: 1em;
-      margin-bottom: 0.5em;
-    }
-    ul {
-      margin: 0 0 1em 1.5em;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 0.2em 0.4em;
-      border-radius: 4px;
-    }
-  </style>
+  
 </head>
 <body>
 
