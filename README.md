@@ -1,4 +1,4 @@
-## This is a project management software being built with Next.js and Django 
+## This is a project management webapp being built with Next.js and Django 
 
 To-do list
 
